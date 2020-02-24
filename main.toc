@@ -1,0 +1,57 @@
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\numberline {1.}\MakeUppercase {Introduction}}{1}{chapter.1}
+\contentsline {section}{Section}{1}{section*.11}
+\contentsline {subsection}{Subsection}{1}{subsection*.12}
+\contentsline {subsubsection}{Subsubsection}{2}{subsubsection*.13}
+\contentsline {subsection}{Subsection With a Very Very Very Very\\ Very Very Very Very Very Very Long Title}{2}{subsubsection*.13}
+\contentsline {subsection}{Subsection With a Very Long Title}{2}{subsubsection*.13}
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\numberline {2.}\MakeUppercase {Modeling a propagating sawtooth flare ribbon structure as a tearing mode in the presence of velocity shear}}{3}{chapter.2}
+\contentsline {section}{Abstract}{3}{section*.14}
+\contentsline {section}{Introduction}{4}{section*.15}
+\contentsline {section}{Linear Tearing Mode Instability with Shear Flow}{11}{section*.18}
+\contentsline {section}{Modeling Observations}{22}{section*.21}
+\contentsline {subsection}{Geometry}{22}{subsection*.22}
+\contentsline {subsection}{Introducing dimensions}{24}{subsection*.24}
+\contentsline {subsection}{The saturated state}{25}{subsection*.25}
+\contentsline {subsection}{Transformation to Observed Quantities}{27}{subsection*.28}
+\contentsline {section}{Discussions and Conclusions}{32}{section*.30}
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\numberline {3.}\MakeUppercase {Determining the Spectral Content of MOSES Images}}{37}{chapter.3}
+\contentsline {section}{Abstract}{37}{section*.31}
+\contentsline {section}{Introduction}{37}{section*.32}
+\contentsline {subsection}{Temporary Outline}{37}{subsection*.33}
+\contentsline {section}{Data}{37}{section*.34}
+\contentsline {section}{Methods}{42}{section*.40}
+\contentsline {subsection}{Cross-Correlation}{42}{subsection*.41}
+\contentsline {subsection}{Significance Testing}{46}{subsection*.45}
+\contentsline {subsection}{Forward Model}{52}{subsection*.48}
+\contentsline {subsection}{Fitting}{53}{subsection*.49}
+\contentsline {section}{Results}{53}{section*.50}
+\contentsline {section}{Discussions and Conclusions}{53}{section*.51}
+\contentsline {section}{Acronyms}{53}{section*.52}
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\numberline {4.}\MakeUppercase {First Flight of the EUV Snapshot Imaging Spectrometer (ESIS)}}{54}{chapter.4}
+\contentsline {section}{Abstract}{54}{section*.53}
+\contentsline {section}{Introduction}{54}{section*.54}
+\contentsline {section}{Instrument Background}{54}{section*.55}
+\contentsline {section}{Coordinated Observations}{54}{section*.56}
+\contentsline {subsection}{ESIS}{54}{subsection*.57}
+\contentsline {subsection}{AIA/HMI}{54}{subsection*.58}
+\contentsline {subsection}{IRIS}{54}{subsection*.59}
+\contentsline {subsection}{Hinode EIS}{54}{subsection*.60}
+\contentsline {subsection}{Hindoe SOT}{54}{subsection*.61}
+\contentsline {section}{ESIS Level 3 Data}{54}{section*.62}
+\contentsline {section}{Mini Filament Eruption}{54}{section*.63}
+\contentsline {subsection}{Temporal Evolution}{54}{subsection*.64}
+\contentsline {subsection}{Flux Cancellation ??}{54}{subsection*.65}
+\contentsline {subsection}{Inversion}{54}{subsection*.66}
+\contentsline {section}{Discussion and Conclusions}{54}{section*.67}
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\numberline {5.}\MakeUppercase {Conclusion}}{55}{chapter.5}
+\contentsline {chapter}{\MakeUppercase {References Cited}}{56}{section*.68}
+\setcounter {tocdepth}{3}
+\setcounter {tocdepth}{3}
+\setcounter {tocdepth}{3}
+\contentsline {chapter}{\MakeUppercase {\MakeUppercase {Appendix}}: Alignment and Focus of the ESIS Optical System}{59}{appendix.A}
+\contentsline {section}{ESIS Primary Radius of Curvature}{59}{section*.71}

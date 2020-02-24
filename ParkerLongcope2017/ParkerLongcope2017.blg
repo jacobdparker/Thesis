@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ParkerLongcope2017.aux
+The style file: apj.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ParkerLongcope2017Notes.bib
+Database file #2: mybib.bib
+Database file #3: local_bib.bib
+Database file #4: introextra.bib
+You're missing a field part---line 195 of file introextra.bib
+ :    eid = 
+ :          ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 52 entries,
+            2387 wiz_defined-function locations,
+            915 strings with 15190 characters,
+and the built_in function-call counts, 30495 in all, are:
+= -- 3417
+> -- 1520
+< -- 1
++ -- 519
+- -- 533
+* -- 2366
+:= -- 4403
+add.period$ -- 52
+call.type$ -- 52
+change.case$ -- 537
+chr.to.int$ -- 52
+cite$ -- 52
+duplicate$ -- 1747
+empty$ -- 1408
+format.name$ -- 596
+if$ -- 6083
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 159
+num.names$ -- 212
+pop$ -- 534
+preamble$ -- 1
+purify$ -- 641
+quote$ -- 0
+skip$ -- 1890
+stack$ -- 0
+substring$ -- 1567
+swap$ -- 901
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 408
+warning$ -- 0
+while$ -- 213
+width$ -- 0
+write$ -- 629
+(There was 1 error message)

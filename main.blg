@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: ParkerLongcope2017/ParkerLongcope2017.aux
+A level-1 auxiliary file: MCOR_Paper/ParkerKankelborg2018.aux
+A level-1 auxiliary file: ESIS_Mission/ESIS_Mission.aux
+A level-1 auxiliary file: conclusion.aux
+The style file: apj.bst
+A level-1 auxiliary file: ESIS_Assembly.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: PL2017.bib
+Database file #2: ParkerKankelborg2018.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 59 entries,
+            2387 wiz_defined-function locations,
+            967 strings with 17062 characters,
+and the built_in function-call counts, 34605 in all, are:
+= -- 3886
+> -- 1720
+< -- 1
++ -- 589
+- -- 606
+* -- 2688
+:= -- 5001
+add.period$ -- 59
+call.type$ -- 59
+change.case$ -- 617
+chr.to.int$ -- 59
+cite$ -- 59
+duplicate$ -- 1977
+empty$ -- 1585
+format.name$ -- 678
+if$ -- 6895
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 180
+num.names$ -- 240
+pop$ -- 613
+preamble$ -- 1
+purify$ -- 735
+quote$ -- 0
+skip$ -- 2140
+stack$ -- 0
+substring$ -- 1779
+swap$ -- 1020
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 464
+warning$ -- 0
+while$ -- 239
+width$ -- 0
+write$ -- 713
